@@ -24,7 +24,7 @@ Final-year **B.E. Computer Science** student at **ATME College of Engineering, M
 <img src="./assets/h-work.svg" width="100%" alt="Selected work"/>
 
 <!-- TODO: replace the link below with the real OpsLens AI repository URL, and edit the one-line description in assets/card-opslens.svg -->
-<a href="https://github.com/Abhinandan12317?tab=repositories"><img src="./assets/card-opslens.svg" width="100%" alt="OpsLens AI"/></a>
+<a href="https://github.com/Abhinandan12317/OpsLensai"><img src="./assets/card-opslens.svg" width="100%" alt="OpsLens AI"/></a>
 
 <a href="https://github.com/Abhinandan12317/VidhiPath.ai"><img src="./assets/card-vidhipath.svg" width="100%" alt="VidhiPath.ai"/></a>
 
