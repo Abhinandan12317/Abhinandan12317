@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Abhinandan - Full-stack, DevOps, Applied AI">
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#131A23" stroke-width="1"/></pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0B0E13" stop-opacity="0"/><stop offset=".5" stop-color="#0B0E13" stop-opacity="0"/><stop offset="1" stop-color="#0B0E13" stop-opacity=".55"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E2A24C" stop-opacity="0"/><stop offset=".5" stop-color="#E2A24C" stop-opacity=".16"/><stop offset="1" stop-color="#E2A24C" stop-opacity="0"/></linearGradient>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E2A24C"/><stop offset=".45" stop-color="#E2A24C" stop-opacity=".25"/><stop offset="1" stop-color="#E2A24C" stop-opacity="0"/></linearGradient>
+  <path id="pipe" d="M870 170H1130"/>
+</defs>
+<style>
+  .name{font:800 76px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;letter-spacing:6px}
+  .over{font:600 13px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:4px}
+  .role{font:400 22px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}
+  .mono{font:400 14px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace}
+  .lbl{font:500 11px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:2px}
+    .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+</style>
+<rect width="1200" height="340" fill="#0B0E13"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<rect width="1200" height="340" fill="url(#fade)"/>
+<rect x="0" y="0" width="160" height="340" fill="url(#scan)"><animate attributeName="x" values="-200;1200" dur="9s" repeatCount="indefinite"/></rect>
+
+<rect x="60" y="78" width="4" height="176" fill="#E2A24C"/>
+<text x="86" y="96" class="over" fill="#E2A24C" style="animation-delay:.2s">FINAL-YEAR B.E. COMPUTER SCIENCE</text>
+<text x="82" y="178" class="name" fill="#E6EDF3" textLength="560" lengthAdjust="spacing" style="animation-delay:.35s">ABHINANDAN</text>
+<text x="86" y="224" class="role" fill="#8FA3BF">Full-Stack Development  /  DevOps  /  Applied AI</text>
+<text x="86" y="260" class="mono" fill="#8793A5" style="animation-delay:.8s">ATME College of Engineering, Mysore</text>
+
+<line x1="870" y1="170" x2="1130" y2="170" stroke="#1E2733" stroke-width="2"/>
+<circle cx="870.0" cy="170" r="6" fill="#0B0E13" stroke="#8FA3BF" stroke-width="2"/><text x="870.0" y="200" text-anchor="middle" class="lbl" fill="#8793A5">COMMIT</text>
+<circle cx="956.7" cy="170" r="6" fill="#0B0E13" stroke="#8FA3BF" stroke-width="2"/><text x="956.7" y="200" text-anchor="middle" class="lbl" fill="#8793A5">BUILD</text>
+<circle cx="1043.3" cy="170" r="6" fill="#0B0E13" stroke="#8FA3BF" stroke-width="2"/><text x="1043.3" y="200" text-anchor="middle" class="lbl" fill="#8793A5">PUSH</text>
+<circle cx="1130.0" cy="170" r="6" fill="#0B0E13" stroke="#8FA3BF" stroke-width="2"/><text x="1130.0" y="200" text-anchor="middle" class="lbl" fill="#8793A5">DEPLOY</text>
+<circle r="4.5" fill="#E2A24C"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#pipe"/></animateMotion></circle>
+<circle r="11" fill="#E2A24C" opacity=".18"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#pipe"/></animateMotion></circle>
+<rect x="0" y="337" width="1200" height="3" fill="url(#base)"/>
+</svg>

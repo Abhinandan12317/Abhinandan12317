@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="100%" role="img" aria-label="SELECTED WORK">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E2A24C" stop-opacity="0"/><stop offset=".5" stop-color="#E2A24C"/><stop offset="1" stop-color="#E2A24C" stop-opacity="0"/></linearGradient></defs>
+<style>.n{font:600 14px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:2px}.l{font:700 19px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}</style>
+<text x="0" y="38" class="n" fill="#E2A24C">02</text>
+<text x="38" y="38" class="l" fill="#E6EDF3" textLength="195" lengthAdjust="spacing">SELECTED WORK</text>
+<line x1="293" y1="32" x2="1000" y2="32" stroke="#1E2733" stroke-width="1.5"/>
+<rect x="293" y="31" width="140" height="2" fill="url(#g)"><animate attributeName="x" values="153;1000" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 282" width="100%" role="img" aria-label="Technology stack">
+<style>.k{font:600 12px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:2.5px}.c{font:500 13px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<text x="0" y="35" class="k" fill="#E2A24C">LANGUAGES</text>
+<g><rect x="190.0" y="14" width="73.4" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="226.7" y="34" text-anchor="middle" class="c" fill="#E6EDF3">Python</text></g>
+<g><rect x="273.4" y="14" width="105.0" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="325.9" y="34" text-anchor="middle" class="c" fill="#E6EDF3">JavaScript</text></g>
+<g><rect x="388.4" y="14" width="105.0" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="440.9" y="34" text-anchor="middle" class="c" fill="#E6EDF3">TypeScript</text></g>
+<g><rect x="503.4" y="14" width="57.6" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="532.2" y="34" text-anchor="middle" class="c" fill="#E6EDF3">Java</text></g>
+<g><rect x="571.0" y="14" width="57.6" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="599.8" y="34" text-anchor="middle" class="c" fill="#E6EDF3">HTML</text></g>
+<g><rect x="638.6" y="14" width="49.7" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="663.5" y="34" text-anchor="middle" class="c" fill="#E6EDF3">CSS</text></g>
+<line x1="0" y1="54" x2="1000" y2="54" stroke="#131A23"/>
+<text x="0" y="89" class="k" fill="#E2A24C">FRAMEWORKS</text>
+<g><rect x="190.0" y="68" width="81.3" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="230.7" y="88" text-anchor="middle" class="c" fill="#E6EDF3">Angular</text></g>
+<g><rect x="281.3" y="68" width="81.3" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="322.0" y="88" text-anchor="middle" class="c" fill="#E6EDF3">Node.js</text></g>
+<g><rect x="372.6" y="68" width="81.3" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="413.2" y="88" text-anchor="middle" class="c" fill="#E6EDF3">Express</text></g>
+<g><rect x="463.9" y="68" width="65.5" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="496.7" y="88" text-anchor="middle" class="c" fill="#E6EDF3">Flask</text></g>
+<line x1="0" y1="108" x2="1000" y2="108" stroke="#131A23"/>
+<text x="0" y="143" class="k" fill="#E2A24C">DATA</text>
+<g><rect x="190.0" y="122" width="81.3" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="230.7" y="142" text-anchor="middle" class="c" fill="#E6EDF3">MongoDB</text></g>
+<g><rect x="281.3" y="122" width="65.5" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="314.1" y="142" text-anchor="middle" class="c" fill="#E6EDF3">MySQL</text></g>
+<g><rect x="356.8" y="122" width="89.2" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="401.4" y="142" text-anchor="middle" class="c" fill="#E6EDF3">Supabase</text></g>
+<line x1="0" y1="162" x2="1000" y2="162" stroke="#131A23"/>
+<text x="0" y="197" class="k" fill="#E2A24C">DEVOPS &amp; CLOUD</text>
+<g><rect x="190.0" y="176" width="73.4" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="226.7" y="196" text-anchor="middle" class="c" fill="#E6EDF3">Docker</text></g>
+<g><rect x="273.4" y="176" width="136.6" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="341.7" y="196" text-anchor="middle" class="c" fill="#E6EDF3">Docker Compose</text></g>
+<g><rect x="420.0" y="176" width="65.5" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="452.8" y="196" text-anchor="middle" class="c" fill="#E6EDF3">Nginx</text></g>
+<g><rect x="495.5" y="176" width="136.6" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="563.8" y="196" text-anchor="middle" class="c" fill="#E6EDF3">GitHub Actions</text></g>
+<g><rect x="642.1" y="176" width="81.3" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="682.8" y="196" text-anchor="middle" class="c" fill="#E6EDF3">AWS EC2</text></g>
+<g><rect x="733.4" y="176" width="65.5" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="766.2" y="196" text-anchor="middle" class="c" fill="#E6EDF3">Linux</text></g>
+<line x1="0" y1="216" x2="1000" y2="216" stroke="#131A23"/>
+<text x="0" y="251" class="k" fill="#E2A24C">AI &amp; APIS</text>
+<g><rect x="190.0" y="230" width="105.0" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="242.5" y="250" text-anchor="middle" class="c" fill="#E6EDF3">Gemini API</text></g>
+<g><rect x="305.0" y="230" width="97.1" height="30" rx="6" fill="#10151C" stroke="#1E2733"/><text x="353.6" y="250" text-anchor="middle" class="c" fill="#E6EDF3">REST APIs</text></g>
+</svg>

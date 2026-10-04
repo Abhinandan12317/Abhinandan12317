@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 232" width="100%" role="img" aria-label="OpsLens AI">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E2A24C"/><stop offset="1" stop-color="#E2A24C" stop-opacity=".2"/></linearGradient></defs>
+<style>.i{font:600 56px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}.t{font:700 26px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}.tg{font:500 15px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:.5px}.d{font:400 15px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}.c{font:500 12px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace}.cta{font:600 12px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;letter-spacing:2.5px}</style>
+<rect x="1" y="1" width="998" height="230" rx="10" fill="#10151C" stroke="#1E2733" stroke-width="1.5"/>
+<rect x="1" y="1" width="998" height="230" rx="10" fill="none" stroke="url(#a)" stroke-width="2" stroke-dasharray="160 2456"><animate attributeName="stroke-dashoffset" values="0;-2616" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="36" y="38" width="4" height="30" fill="#E2A24C"/>
+<text x="54" y="63" class="t" fill="#E6EDF3">OpsLens AI</text>
+<text x="964" y="68" text-anchor="end" class="i" fill="#1B2430">01</text>
+<text x="36" y="98" class="tg" fill="#E2A24C">AI for operations monitoring and analysis</text>
+<text x="36" y="130" class="d" fill="#8793A5">AI-driven tool for monitoring and analysing operations data.</text>
+<rect x="36.0" y="180" width="36.8" height="26" rx="5" fill="#0B0E13" stroke="#1E2733"/><text x="54.4" y="197" text-anchor="middle" class="c" fill="#8FA3BF">AI</text>
+<text x="964" y="198" text-anchor="end" class="cta" fill="#E2A24C">VIEW REPOSITORY  →<animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/></text>
+</svg>
